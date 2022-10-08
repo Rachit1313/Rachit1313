@@ -32,4 +32,4 @@
 | Other Tools and Platforms | Git, Visual Studio, Visual Studio Code, MS Office, Heroku, Xcode
 
 ## Contact me!
-:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/rachit-chawla-746571181)
+:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/rachit-chawla-746571181)
