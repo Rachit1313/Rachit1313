@@ -21,6 +21,7 @@
 
 * MERN Stack Developer
 * Data Scientist
+* Software Developer
 * Learn new programming skills
 * Gaining more work experience
 
