@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="100"/>
 </div>
-# Hi there, I'm Rachit Chawla!
+**Hi there, I'm Rachit Chawla!**
 
 ## :pushpin: Who I Am
 
