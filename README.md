@@ -15,7 +15,7 @@
 * Learn new programming skills
 * Gaining more work experience
 
-## :pushpin: Tools & Languages I Use
+## :pushpin: Technical Skills
   
 | Skills        | Languages/Tools
 | ------------- |:-------------:|
