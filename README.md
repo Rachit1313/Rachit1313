@@ -33,4 +33,4 @@
 | Database Management      | OracleSQL, MySql
 | Programming Languages    | C++, C, Python, Java
 | Operating Systems | Windows, Linux/Unix, MacOS
-| Other Tools and Platforms | Git, Visual Studio, Visual Studio Code, MS Office, Heroku, Microsoft Azure
+| Other Tools and Platforms | Git, Visual Studio, Visual Studio Code, MS Office, Heroku, Xcode
