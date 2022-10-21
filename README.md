@@ -28,7 +28,7 @@
 | ------------- |:-------------:|
 | Web Development        | HTML5, CSS, JavaScript
 | Database Management      | OracleSQL, MySql
-| Programming Languages    | C++, C, Python
+| Programming Languages    | C++, C, Python, Java
 | Operating Systems | Windows, Linux/Unix, MacOS
 | Other Tools and Platforms | Git, Visual Studio, Visual Studio Code, MS Office, Heroku, Xcode
 
