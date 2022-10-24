@@ -14,11 +14,12 @@
 * Computer Programming and Analysis student at [Seneca College](https://www.senecacollege.ca/home.html) based In Toronto
 * Passionate in various fields of Computer Science including Software Development, Web Development, Database Administration and Data Science
 
-## 📌 My Goals
+## 📌 My Interests
 
-* MERN Stack Developer
-* Data Scientist
+* MERN Stack
+* Data Science
 * Software Developer
+* CyberSecurity
 * Learn new programming skills
 * Gaining more work experience
 
@@ -28,7 +29,7 @@
 | ------------- |:-------------:|
 | Web Development        | HTML5, CSS, JavaScript
 | Database Management      | OracleSQL, MySql
-| Programming Languages    | C++, C, Python, Java
+| Programming Languages    | C++, C, Python
 | Operating Systems | Windows, Linux/Unix, MacOS
 | Other Tools and Platforms | Git, Visual Studio, Visual Studio Code, MS Office, Heroku, Xcode
 
