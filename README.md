@@ -7,7 +7,7 @@
   </a>
 </div>
 
-<strong>Hi there, I'm Rachit Chawla!</strong>
+<p><strong>Hi there, I'm Rachit Chawla!</strong>
 
 ## 📌 Who I Am
 
