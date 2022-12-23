@@ -28,8 +28,8 @@
 | Skills        | Languages/Tools
 | ------------- |:-------------:|
 | Web Development        | HTML5, CSS, JavaScript
-| Database Management      | OracleSQL, MySql
-| Programming Languages    | C++, C, Python
+| Database Management      | OracleSQL, MySql, PL/SQL, MongoDB
+| Programming Languages    | C++, C, Python, Java
 | Operating Systems | Windows, Linux/Unix, MacOS
 | Other Tools and Platforms | Git, Visual Studio, Visual Studio Code, MS Office, Heroku, Xcode
 
