@@ -1,5 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <p><strong>Hi there, I'm Rachit Chawla!</strong>
 </div>
 <div id="badges" align ="center">
   <a href="https://in.linkedin.com/in/rachit-chawla-746571181">
@@ -7,7 +8,7 @@
   </a>
 </div>
 
-<p><strong>Hi there, I'm Rachit Chawla!</strong>
+
 
 ## 📌 Who I Am
 
