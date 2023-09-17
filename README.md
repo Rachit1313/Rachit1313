@@ -10,6 +10,7 @@
 
 ## 📌 Who I Am
 
+* Automation Developer at Ministry of Public and Buisness Service Delivery, Government of Ontario
 * Computer Programming and Analysis student at [Seneca Polytechnic](https://www.senecacollege.ca/home.html) based In Toronto
 * Passionate in various fields of Computer Science including Software Development, Web Development, Cloud Computing and Machine Learning
 
