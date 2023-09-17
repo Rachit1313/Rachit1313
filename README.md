@@ -13,31 +13,29 @@
 ## 📌 Who I Am
 
 * Computer Programming and Analysis student at [Seneca College](https://www.senecacollege.ca/home.html) based In Toronto
-* Passionate in various fields of Computer Science including Software Development, Web Development, Database Administration and Data Science
+* Passionate in various fields of Computer Science including Software Development, Web Development, Cloud Computing and Data Science
 
 ## 📌 My Interests
 
 * MERN Stack
 * Data Science
-* Software Developer
-* CyberSecurity
-* Learn new programming skills
-* Gaining more work experience
+* Software Development
+* Cloud Computing
+* 
 
 ## 📌 Technical Skills
   
 | Skills        | Languages/Tools
 | ------------- |:-------------:|
-| Web Development        | HTML5, CSS, JavaScript
+| Programming Languages    | C++, Python, C, Java
+| Web Development        | HTML5, CSS, JavaScript, React, Node, Express, Angular
+| Cloud Computing | Microsoft Azure, AWS, Powershell Scripting, Azure DevOps
 | Database Management      | OracleSQL, MySql, PL/SQL, MongoDB
-| Programming Languages    | C++, C, Python, Java
-| Operating Systems | Windows, Linux/Unix, MacOS
-| Other Tools and Platforms | Git, Visual Studio, Visual Studio Code, MS Office, Heroku, Xcode
+| Operating Systems | Windows, Windows Server 2016, Linux/Unix, MacOS
+| Other Tools and Platforms | Git, Visual Studio, Visual Studio Code, MS Office, PowerBI, Xcode
 
 ## 📌 How to reach me
 :mailbox:<a href="mailto:rachitchawla33@gmail.com"><img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"></a>
 
 ## 📌 Github Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rachit1313&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rachit1313&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rachit1313&theme=dark&background=000000)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rachit1313&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
