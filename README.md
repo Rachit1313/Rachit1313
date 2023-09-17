@@ -15,6 +15,9 @@
 
 ## 📌 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Collaborative Learning Experience: Code Review and Issue Resolution](https://dev.to/rachit1313/a-collaborative-learning-experience-code-review-and-issue-resolution-43lm)
+- [My Journey into Open Source: Creating My First Tool](https://dev.to/rachit1313/my-journey-into-open-source-creating-my-first-tool-2j72)
+- [Introduction](https://dev.to/rachit1313/introduction-2gpn)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📌 Languages and Tools:
