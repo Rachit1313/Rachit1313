@@ -10,8 +10,8 @@
 
 ## 📌 Who I Am
 
-* Computer Programming and Analysis student at [Seneca College](https://www.senecacollege.ca/home.html) based In Toronto
-* Passionate in various fields of Computer Science including Software Development, Web Development, Cloud Computing and Data Science
+* Computer Programming and Analysis student at [Seneca Polytechnic](https://www.senecacollege.ca/home.html) based In Toronto
+* Passionate in various fields of Computer Science including Software Development, Web Development, Cloud Computing and Machine Learning
 
 ## 📌 Blog posts
 <!-- BLOG-POST-LIST:START -->
