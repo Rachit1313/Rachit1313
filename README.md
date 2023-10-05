@@ -21,6 +21,7 @@
 - [Navigating Git Merge](https://dev.to/rachit1313/navigating-git-merge-542h)
 - [Collaborative Coding Adventure: Adding Markdown Support to a Python Tool](https://dev.to/rachit1313/collaborative-coding-adventure-adding-markdown-support-to-a-python-tool-2fo6)
 - [A Collaborative Learning Experience: Code Review and Issue Resolution](https://dev.to/rachit1313/a-collaborative-learning-experience-code-review-and-issue-resolution-43lm)
+- [My Journey into Open Source: Creating My First Tool](https://dev.to/rachit1313/my-journey-into-open-source-creating-my-first-tool-2j72)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📌 Languages and Tools:
