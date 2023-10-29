@@ -17,11 +17,11 @@
 
 ## 📌 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hacktoberfest : Bonus PR-5](https://dev.to/rachit1313/hacktoberfest-bonus-pr-5-2hm1)
+- [My Hacktoberfest Journey: My Last Contribution](https://dev.to/rachit1313/my-hacktoberfest-journey-my-last-contribution-33d1)
 - [Navigating Challenges in Open Source: My Hacktoberfest Journey Continues &lpar;PR 3&rpar;](https://dev.to/rachit1313/navigating-challenges-in-open-source-my-hacktoberfest-journey-continues-pr-3-4an8)
 - [My Halfway to Hacktoberfest : 2nd Pull Request](https://dev.to/rachit1313/my-halfway-to-hacktoberfest-2nd-pull-request-42og)
 - [Refactoring Code: A Journey Towards Clean and Maintainable Design](https://dev.to/rachit1313/refactoring-code-a-journey-towards-clean-and-maintainable-design-59gn)
-- [My first PR to Hacktoberfest](https://dev.to/rachit1313/my-first-pr-to-hacktoberfest-3ifi)
-- [My Experience: Working with Draft Pull Requests](https://dev.to/rachit1313/my-experience-working-with-draft-pull-requests-5e77)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📌 Languages and Tools:
