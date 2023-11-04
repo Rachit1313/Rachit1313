@@ -17,11 +17,11 @@
 
 ## 📌 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Enhancing Code Quality: A Journey with Black and Pylint](https://dev.to/rachit1313/enhancing-code-quality-a-journey-with-black-and-pylint-2a85)
 - [Introducing Search Highlighting in txtToWeb](https://dev.to/rachit1313/introducing-search-highlighting-in-txttoweb-4bk)
 - [An In-Depth Look at Generating a Sidebar from Code : Docusaurus](https://dev.to/rachit1313/an-in-depth-look-at-generating-a-sidebar-from-code-docusaurus-1iio)
 - [Hacktoberfest - The Journey Recap](https://dev.to/rachit1313/hacktoberfest-the-journey-recap-1618)
 - [Hacktoberfest : Bonus PR-5](https://dev.to/rachit1313/hacktoberfest-bonus-pr-5-2hm1)
-- [My Hacktoberfest Journey: My Last Contribution](https://dev.to/rachit1313/my-hacktoberfest-journey-my-last-contribution-33d1)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📌 Languages and Tools:
