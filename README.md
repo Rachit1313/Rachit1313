@@ -17,11 +17,11 @@
 
 ## 📌 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Streamlining Development with GitHub Actions: A CI Adventure](https://dev.to/rachit1313/streamlining-development-with-github-actions-a-ci-adventure-2l16)
 - [Journey into Testing with txtToWeb](https://dev.to/rachit1313/journey-into-testing-with-txttoweb-4gd3)
 - [Enhancing Code Quality: A Journey with Black and Pylint](https://dev.to/rachit1313/enhancing-code-quality-a-journey-with-black-and-pylint-2a85)
 - [Introducing Search Highlighting in txtToWeb](https://dev.to/rachit1313/introducing-search-highlighting-in-txttoweb-4bk)
 - [An In-Depth Look at Generating a Sidebar from Code : Docusaurus](https://dev.to/rachit1313/an-in-depth-look-at-generating-a-sidebar-from-code-docusaurus-1iio)
-- [Hacktoberfest - The Journey Recap](https://dev.to/rachit1313/hacktoberfest-the-journey-recap-1618)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📌 Languages and Tools:
