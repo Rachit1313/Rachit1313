@@ -17,11 +17,11 @@
 
 ## 📌 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Dive into Contributing to Adobe&#39;s Open Source: Adding Tests to @adobe/create-aio-lib](https://dev.to/rachit1313/a-dive-into-contributing-to-adobes-open-source-adding-tests-to-adobecreate-aio-lib-23im)
+- [Navigating the Release Journey of txtToWeb](https://dev.to/rachit1313/navigating-the-release-journey-of-txttoweb-mlc)
 - [My First Dive into Big Open Source: Tackling Blocksuite](https://dev.to/rachit1313/my-first-dive-into-big-open-source-tackling-blocksuite-2ngm)
 - [Streamlining Development with GitHub Actions: A CI Adventure](https://dev.to/rachit1313/streamlining-development-with-github-actions-a-ci-adventure-2l16)
 - [Journey into Testing with txtToWeb](https://dev.to/rachit1313/journey-into-testing-with-txttoweb-4gd3)
-- [Enhancing Code Quality: A Journey with Black and Pylint](https://dev.to/rachit1313/enhancing-code-quality-a-journey-with-black-and-pylint-2a85)
-- [Introducing Search Highlighting in txtToWeb](https://dev.to/rachit1313/introducing-search-highlighting-in-txttoweb-4bk)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📌 Languages and Tools:
