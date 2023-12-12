@@ -17,11 +17,11 @@
 
 ## 📌 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Final Post: Navigating the Open Source Seas](https://dev.to/rachit1313/final-post-navigating-the-open-source-seas-294)
 - [Progress Update: Navigating the Open Source Seas](https://dev.to/rachit1313/progress-update-navigating-the-open-source-seas-44b5)
 - [Navigating the Open Source Seas: My Journey with GitHub Issues](https://dev.to/rachit1313/navigating-the-open-source-seas-my-journey-with-github-issues-3h7c)
 - [A Dive into Contributing to Adobe&#39;s Open Source: Adding Tests to @adobe/create-aio-lib](https://dev.to/rachit1313/a-dive-into-contributing-to-adobes-open-source-adding-tests-to-adobecreate-aio-lib-23im)
 - [Navigating the Release Journey of txtToWeb](https://dev.to/rachit1313/navigating-the-release-journey-of-txttoweb-mlc)
-- [My First Dive into Big Open Source: Tackling Blocksuite](https://dev.to/rachit1313/my-first-dive-into-big-open-source-tackling-blocksuite-2ngm)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📌 Languages and Tools:
