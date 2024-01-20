@@ -17,11 +17,11 @@
 
 ## 📌 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Empowering Web Development: A Journey into TypeScript, Vite, and Open Source Contribution](https://dev.to/rachit1313/empowering-web-development-a-journey-into-typescript-vite-and-open-source-contribution-50oh)
 - [Setting up ChatCraft.org 🤖](https://dev.to/rachit1313/setting-up-chatcraftorg-bdd)
 - [Final Post: Navigating the Open Source Seas](https://dev.to/rachit1313/final-post-navigating-the-open-source-seas-294)
 - [Progress Update: Navigating the Open Source Seas](https://dev.to/rachit1313/progress-update-navigating-the-open-source-seas-44b5)
 - [Navigating the Open Source Seas: My Journey with GitHub Issues](https://dev.to/rachit1313/navigating-the-open-source-seas-my-journey-with-github-issues-3h7c)
-- [A Dive into Contributing to Adobe&#39;s Open Source: Adding Tests to @adobe/create-aio-lib](https://dev.to/rachit1313/a-dive-into-contributing-to-adobes-open-source-adding-tests-to-adobecreate-aio-lib-23im)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📌 Languages and Tools:
