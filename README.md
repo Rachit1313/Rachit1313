@@ -17,11 +17,11 @@
 
 ## 📌 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Release 1.3 Contributions: ChatCraft.org](https://dev.to/rachit1313/release-13-contributions-chatcraftorg-44ji)
 - [ChatCraft Release 1.2 Contribution Recap](https://dev.to/rachit1313/chatcraft-release-12-contribution-recap-p2j)
 - [Reflecting on My Contribution to ChatCraft: Release 1.1](https://dev.to/rachit1313/reflecting-on-my-contribution-to-chatcraft-release-11-53pm)
 - [Reflecting on a Week with ChatCraft: My Open Source Journey](https://dev.to/rachit1313/reflecting-on-a-week-with-chatcraft-my-open-source-journey-1n1h)
 - [Empowering Web Development: A Journey into TypeScript, Vite, and Open Source Contribution](https://dev.to/rachit1313/empowering-web-development-a-journey-into-typescript-vite-and-open-source-contribution-50oh)
-- [Setting up ChatCraft.org 🤖](https://dev.to/rachit1313/setting-up-chatcraftorg-bdd)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📌 Languages and Tools:
