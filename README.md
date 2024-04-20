@@ -17,11 +17,11 @@
 
 ## 📌 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ChatCraft v2.0.0](https://dev.to/rachit1313/chatcraft-v200-1min)
 - [Release v1.9.0 - ChatCraft.org](https://dev.to/rachit1313/release-v190-chatcraftorg-a0)
 - [Release 1.8 Contributions : ChatCraft.org🤖](https://dev.to/rachit1313/release-18-contributions-chatcraftorg-4la0)
 - [Release 1.7 Contributions : ChatCraft.org🤖](https://dev.to/rachit1313/release-17-contributions-chatcraftorg-4enl)
 - [Release 1.6 Contributions: ChatCraft.org](https://dev.to/rachit1313/release-16-contributions-chatcraftorg-2501)
-- [Release 1.5 Contributions : ChatCraft.org](https://dev.to/rachit1313/release-15-contributions-chatcraftorg-1f7)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📌 Languages and Tools:
